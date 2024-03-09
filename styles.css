@@ -1,0 +1,54 @@
+body{
+    background-color: blue;
+}
+#hero_section{
+height: 48vh;
+
+display: flex;
+}
+.sec1{
+    
+    width: 50%;
+    height: 100%;
+    
+}
+#fname{
+    font-size: 420%;
+
+}
+#name{
+    text-align: center;    
+}
+#janngo{
+    border-radius: 50%;
+    size: 20px;
+    padding: 50px; 
+    align-content: center;
+    text-align: center;
+
+}
+#about-me{
+    text-align: center;
+    padding: 10%;
+    margin-top: 3%;
+}
+#skills-set{
+    text-align: center;
+}
+#li{
+    padding: 5%;
+    
+}
+#contact-me{
+    align-content: center;
+}
+#contact{
+    
+}
+form{
+border: 1px;
+width: 50%;
+margin-left: 25%;
+padding: 2%;
+border-radius: 3% 3%;
+}
